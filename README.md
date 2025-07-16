@@ -3,4 +3,4 @@ The PCEP extension Mind Map is in markdown file [mindmap.md](./mindmap.md) which
 
 ## TODO
 - Enhance the Mind Map to include RFCs & I-Ds
-- Explore other formats
+- Explore other formats, such as [Miro Board](https://miro.com/app/board/uXjVPNe4ByI=/)
