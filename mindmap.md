@@ -43,7 +43,7 @@ mindmap
       Policy
       Monitoring
       MIB and YANG
-      PCEPS (TLS)
+      PCEPS
       IFIT
     Optical
       WSON
